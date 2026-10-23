@@ -1,0 +1,5 @@
+name: "douyin-knowledge-base"
+title: "Douyin Creator Knowledge Base"
+description: "Turn a Douyin creator's full body of work into a distilled knowledge base through work list building, TikVid audio download, faster-whisper transcription, and structured summarization."
+category: "Work and knowledge"
+include_in_prompt: false
